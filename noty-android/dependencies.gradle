@@ -63,7 +63,7 @@ ext {
     okHttpVersion = "4.10.0"
 
     // Moshi
-    moshiVersion = "1.13.0"
+    moshiVersion = "1.14.0"
 
     // Other utility
     leakCanaryVersion = "2.8.1"
